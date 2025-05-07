@@ -8,3 +8,4 @@ A- si, puede ver los archivos de beta y gamma
 B- si
 C- Si, Los demas integrantes tienen pueden verlo
 D- Nos comunicamos a través de discord
+E- La mejor forma es usar el sistema de Issues y el tablero de Projects. Permite asignar tareas, dejar comentarios organizados y llevar seguimiento del progreso, todo dentro del mismo repositorio.
