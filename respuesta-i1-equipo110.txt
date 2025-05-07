@@ -6,3 +6,5 @@ RESPUESTAS
 
 A- si, puede ver los archivos de beta y gamma
 B- si
+C- Si, Los demas integrantes tienen pueden verlo
+D- Nos comunicamos a través de discord
