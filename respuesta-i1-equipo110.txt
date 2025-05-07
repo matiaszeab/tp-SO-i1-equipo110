@@ -1,0 +1,8 @@
+ALFA matias baez
+BETA Lautaro boiro 
+GAMMA Tiago Ahrens
+
+RESPUESTAS
+
+A- si, puede ver los archivos de beta y gamma
+B- si
